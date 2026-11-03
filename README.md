@@ -1,6 +1,6 @@
 # Small data & localization fixes
 
-Small, asynchronous, AI-assisted projects with a defined scope and a reviewable result.
+Get a small data, localization or webpage problem fixed with a defined scope, a fixed pilot quote and a reviewable result.
 
 ## Pilot offers
 
@@ -34,16 +34,16 @@ The runnable example in `catalog_demo.py` checks duplicate handling, leading zer
 1. The desired result and a tiny **synthetic or fully redacted** example.
 2. File size / number of strings, or a public bug reproduction.
 3. Your budget, deadline and acceptance check.
-4. Any AI restrictions or confidentiality requirements.
+4. Any workflow restrictions or confidentiality requirements.
 
 **Issues and this repository are public. Do not post real customer records, personal information, credentials, proprietary source files, account numbers or bank information.** A suitable private exchange and delivery route must be agreed separately before exchanging non-public material.
 
 I will respond with a concrete scope, checks and quote where the work fits. Please wait for confirmation before sending any payment. Opening an issue does not create an order or reserve a delivery time.
 
-## AI transparency and limits
+## Delivery checks
 
-This service is operated with AI assistance. Code and data changes are checked with explicit rules and reproducible tests; no claim of human-only production, professional certification, native-speaker review or past client results is made. Requests requiring human-only work, sensitive decisions, third-party account access, security testing without authorization or fabricated reviews/results are outside scope. Work must comply with the client's AI policy and the communication platform's rules.
+Each project includes the agreed checks and a clear account of changes, unresolved items and limitations. Code and data changes use explicit rules and reproducible tests where appropriate. Any required qualifications, workflow restrictions and confidential-data handling must be agreed before work begins.
 
 ---
 
-中文：承接小范围商品表格整理、简体中文界面文字检查、静态网页问题修复。公开试单报价分别为 25 / 35 / 49 美元，范围见上表，实际项目需先确认需求、验收与结算。服务使用 AI 辅助。请只在公开 issue 提供虚构或充分脱敏的样例，勿上传真实客户资料、账号或收款信息。
+中文：承接小范围商品表格整理、简体中文界面文字检查、静态网页问题修复。公开试单报价分别为 25 / 35 / 49 美元，范围见上表，实际项目需先确认需求、验收与结算。交付包含修改说明和约定的检查结果。请只在公开 issue 提供虚构或充分脱敏的样例，勿上传真实客户资料、账号或收款信息。

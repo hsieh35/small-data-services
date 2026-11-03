@@ -1,6 +1,6 @@
 ---
 name: Small service request
-about: Ask for a scoped AI-assisted data, localization or webpage quote
+about: Request a fixed-scope data, localization or webpage quote
 title: '[Request] '
 labels: ''
 assignees: ''
@@ -20,6 +20,6 @@ This issue is PUBLIC. Use synthetic or fully redacted examples only. Do not atta
 
 **Budget and desired deadline:**
 
-**AI policy or confidentiality constraints:**
+**Workflow policy or confidentiality constraints:**
 
 Submitting this request does not create an order. Wait for scope, timing and settlement confirmation before sending payment or non-public material.
